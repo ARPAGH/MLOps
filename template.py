@@ -14,20 +14,20 @@ list_of_files=[
     "src/pipeline/__init__.py",
     "src/pipeline/training_pipeline.py",
     "src/pipeline/prediction_pipeline.py",
-    "src/utlils/__init__.py"
+    "src/utlils/__init__.py",
     "src/utils/utils.py",
-    "src/logger/logging.py"
-    "src/exceptions/exception"
+    "src/logger/logging.py",
+    "src/exceptions/exception.py",
     "tests/unit/__init__.py",
-    "test/integration/__init__.py",
-    "init_setup.sh"
+    "tests/integration/__init__.py",
+    "init_setup.sh",
     "requirements.txt",
     "requirements_dev.txt",
     "setup.py",
     "set.cfg",
     "pyproject.toml",
     "tox.ini",
-    "experiment/experiments.ipynb"
+    "experiment/experiments.ipynb",
     
     
 ]
